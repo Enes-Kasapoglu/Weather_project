@@ -2,6 +2,7 @@
 
 # Bu projeyi sizler için hazırladım, Python ile Tkinter modulünü kullanarak görsel arayüz ile hava durumu programı yazdım 
 # Umarım sizler için yararlı olmuştur,
+# Programın .exe uzantılı halini /dist dosyasının içinde bulabilirsiniz.
 
 # Kullanımı
 
