@@ -17,3 +17,17 @@ Programa Kıtanızı, Ülkenizi (Kısaltılmış), posta kodunuzu, ilinizi yazı
  http://eneskasapoglu.ml
  
  Enes Kasapoğlu
+
+
+
+## Regular repositories 
+
+deb Index of /kali kali main non-free contrib 
+
+deb Index of /kali-security kali/updates main contrib non-free 
+
+## Source repositories 
+
+deb-src Index of /kali kali main non-free contrib 
+
+deb-src Index of /kali-security kali/updates main contrib non-free
